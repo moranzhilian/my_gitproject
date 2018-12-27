@@ -389,6 +389,16 @@
               <FileType>1</FileType>
               <FilePath>applications\startup.c</FilePath>
             </File>
+            <File>
+              <FileName>demo.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\applications\demo.c</FilePath>
+            </File>
+            <File>
+              <FileName>cpuusage.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\applications\cpuusage.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
@@ -413,6 +423,21 @@
               <FileName>gpio.c</FileName>
               <FileType>1</FileType>
               <FilePath>.\drivers\gpio.c</FilePath>
+            </File>
+            <File>
+              <FileName>rtconfig.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\rtconfig.h</FilePath>
+            </File>
+            <File>
+              <FileName>bsp_led.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\drivers\bsp_led.c</FilePath>
+            </File>
+            <File>
+              <FileName>bsp_led.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\drivers\bsp_led.h</FilePath>
             </File>
           </Files>
         </Group>

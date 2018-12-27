@@ -50,6 +50,7 @@ void rt_init_thread_entry(void* parameter)
         rt_kprintf("TCP/IP initialized!\n");
     }
 #endif
+		demo_thread_creat();
 }
 
 int rt_application_init()
